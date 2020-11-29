@@ -7,6 +7,8 @@ def join_nested_strings(src)
         end
   joined_strings
 end
+end
+end
 
 
 #row_index = 0
