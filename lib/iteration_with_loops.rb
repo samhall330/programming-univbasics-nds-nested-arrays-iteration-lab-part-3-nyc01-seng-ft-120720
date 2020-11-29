@@ -7,4 +7,3 @@ def join_nested_strings(src)
         end
 
   joined_strings
-end
