@@ -5,7 +5,7 @@ def join_nested_strings(src)
         if element.is_a?(String)
         joined_strings << element
         end
-      
+
   joined_strings
 end
 
