@@ -3,7 +3,7 @@ def join_nested_strings(src)
     src.each do |row|
       row.each do |element|
         if element.class == String
-        joined_strings << element
+        joined_strings += element
         end
   joined_strings
 end
